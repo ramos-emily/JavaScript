@@ -1,5 +1,3 @@
-const nome = 'joao'; //valor é imodificavel, como tupla
-
 console.log(nome,'nasceu em 1984. ');
 console.log('em 2000 joao conhece maria. ');
 console.log('joao casou-se com maria em 2012. ');
