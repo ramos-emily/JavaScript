@@ -1,7 +1,12 @@
-const nome = 'joao'; //valor é imodificavel, como tupla
+// const nome = 'joao'; //valor é imodificavel, como tupla
 
-console.log(nome,'nasceu em 1984. ');
-console.log('em 2000 joao conhece maria. ');
-console.log('joao casou-se com maria em 2012. ');
-console.log('maria teve o 1 filho com joao em 2015. ');
-console.log('o filho de joao se chama eduardo. ');
+
+
+const primeiroNum = 5;
+const segundoNum = 10;
+const result = primeiroNum * segundoNum;
+const resultDup = result * 2;
+let resultTrip = result *3;
+resultTrip = resultTrip + 5;
+
+console.log(typeof primeiroNum); //typeof, funçao para mostrar o tipo da variavel
